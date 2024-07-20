@@ -17,3 +17,5 @@ day 7-solved questions related to stacks
 day 8-solved coding questions related to strings
 
 day 9-solved some more coding questions related to strings in python
+
+day 10-solved  coding questions related to stacks and queues in python
