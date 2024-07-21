@@ -126,4 +126,4 @@ print("Queue: ")
 que.display()
 
 print("Size of stack is ", stk.size())
-print("Size of queue is ", que.size()) 
+print("Size of queue is ", que.size())
