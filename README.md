@@ -19,3 +19,5 @@ day 8-solved coding questions related to strings
 day 9-solved some more coding questions related to strings in python
 
 day 10-solved  coding questions related to stacks and queues
+
+day 11-learnt and did some general python coding
