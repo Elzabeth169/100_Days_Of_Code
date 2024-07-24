@@ -22,6 +22,6 @@ day 10-solved  coding questions related to stacks and queues
 
 day 11-learnt and did some general python coding
 
-day 13-Worked in google collab notebook to preprocess and train a GAN model with the preprocessed data on sEMG signals (python)
+day 12-Worked in google collab notebook to preprocess and train a GAN model with the preprocessed data on sEMG signals (python)
 
-day 14- did one problem on stacks and queues in python
+day 13- did one problem on stacks and queues in python
