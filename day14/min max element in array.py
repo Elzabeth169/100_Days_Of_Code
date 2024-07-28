@@ -19,3 +19,5 @@ if __name__ == "__main__":
     N = len(A)
     print("Minimum element is:", set_min(A))
     print("Maximum element is:", set_max(A))
+
+    
