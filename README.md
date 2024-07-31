@@ -28,6 +28,6 @@ day 13- did one problem on stacks and queues in python
 
 day 14- did problem on array and queues in python
 
-day 14- did problem on array  python
+day 15- did problem on array  python
 
-day 14- did problem on array in python
+day 16- did problem on array in python
