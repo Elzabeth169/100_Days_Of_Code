@@ -19,5 +19,6 @@ class Solution:
                     left = mid + 1
                 else:  # Target is in the left side
                     right = mid - 1
+                    #return value
 
         return -1
