@@ -38,4 +38,3 @@ day 18- did problems on array in python
 
 day 19- did problems on array in python
 
-day 20- did problems on array in python
