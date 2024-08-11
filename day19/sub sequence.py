@@ -11,5 +11,4 @@ class Solution:
 
             if s_index == len(s):
                 return True
-
-        return s_index == len(s)
+         return s_index == len(s)
